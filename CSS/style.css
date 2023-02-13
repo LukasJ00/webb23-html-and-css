@@ -1,0 +1,45 @@
+ol {
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    left: 50px;
+}
+
+h1 {
+    /*  display: none;   försvinner/gömmer  */
+    position: relative;
+    top: 0px;
+    left: 500px;
+    color: red;
+}
+h2 {
+    padding: 0px;
+    font-style: italic;
+    border: 4px solid purple;
+
+    border-color: blue;
+    border-width: 20px;
+    border-style: dotted; /*       */
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    border-radius: 20px;
+    background-color: grey;
+    padding: 20p;
+    margin: 20px;
+    color: rgb(0, 255, 13);
+    font-size: 30 px;
+    font-weight: bold;
+}
+div {
+    width: 300px;
+    height: 200px;
+    background-image: url("/images/800px-Grumpy_Cat_by_Gage_Skidmore.jpg");
+}
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
