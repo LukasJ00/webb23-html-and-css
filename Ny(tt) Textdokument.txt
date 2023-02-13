@@ -1,0 +1,1 @@
+Denna webbsidan är en övning för att öka förståelse kring hur kodning och github fungerar. Det kan även vara smart att änvända dessa koder som chortcut för framtida projekt.  
